@@ -1,0 +1,29 @@
+_repo: A-Tour-throughout-South-Wales-and-Monmouthshire_36643
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barber, J. T.
+    alias: Beaumont, John Thomas Barber
+    gutenberg_agent_id: '38393'
+    url: http://www.gutenberg.org/2009/agents/38393
+    wikipedia: http://en.wikipedia.org/wiki/John_Thomas_Barber_Beaumont
+description: ''
+gutenberg_bookshelf: Travel
+gutenberg_issued: '2011-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36643'
+  lccn: 02028674
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monmouthshire (Wales) -- Description and travel'
+- !lcsh 'Wales, South -- Description and travel'
+- !lcc 'DA'
+title: A Tour throughout South Wales and Monmouthshire
+url: http://www.gutenberg.org/ebooks/36643
